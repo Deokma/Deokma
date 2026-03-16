@@ -9,6 +9,7 @@
 
 ## Tech stack
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Golang](https://img.shields.io/badge/Golang-lightblue?style=for-the-badge&logo=Go)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
