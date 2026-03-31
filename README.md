@@ -16,6 +16,7 @@ I'm a Software Engineer with strong practical experience in C++ and secure syste
 - 🔐 I work in the field of **information security**, building software with security, reliability and correctness in mind.
 - 🧠 I care about clean architecture, performance, and defensive programming.
 - 🛠 I explore **Go**, **Rust**, and backend/system design.
+- 🎮 Occasionally, I develop **mods for** :contentReference[oaicite:0]{index=0}, experimenting with Java, game mechanics and event-driven design.
 - 🚀 My focus is on maintainability, robustness, and secure engineering practices.
 
 ---
