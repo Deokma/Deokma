@@ -49,7 +49,7 @@ I'm a Software Engineer with strong practical experience in C++ and secure syste
 - Debugging & low-level problem solving
 - Performance optimization
 
-### 🌍 Languages
+#### 🌍 Languages
 - 🇺🇸 English
 - 🇷🇺 Russian
 - 🇧🇾 Belarusian 
