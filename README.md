@@ -49,6 +49,12 @@ I'm a Software Engineer with strong practical experience in C++ and secure syste
 - Debugging & low-level problem solving
 - Performance optimization
 
+## Languages
+- 🇺🇸 English
+- 🇷🇺 Russian
+- 🇧🇾 Belarusian 
+- 🇺🇦 Ukrainian
+
 ## Contacts
 - GitHub: [@Deokma](https://github.com/Deokma)
 - Email: [dpopolamovmmail@gmail.com](mailto:dpopolamovmmail@gmail.com)
