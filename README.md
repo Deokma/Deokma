@@ -1,11 +1,24 @@
-# Hi there, I'm Denis 👋
+<div align="center">
+  <h1>Hi, I'm Denis 👋</h1>
+  <p>Software Engineer | C++ Developer | Information Security</p>
+  <p>
+    Building reliable, secure and efficient software. Focused on C++ development, systems programming and secure architectures.
+  </p>
+</div>
 
-## About me
-- 💻 Junior developer
-- 🌱 Currently learning C++, Golang, Java and web development
-- 🚀 Interested in software development, backend and desktop applications
-- 📚 Working on work-projects and pet-projects
-- 🎯 Goal: grow into a strong software engineer
+---
+
+### 💼 About Me
+
+I'm a Software Engineer with strong practical experience in C++ and secure systems development.
+
+- 🔭 I design and maintain production applications in **C++**.
+- 🔐 I work in the field of **information security**, building software with security, reliability and correctness in mind.
+- 🧠 I care about clean architecture, performance, and defensive programming.
+- 🛠 I explore **Go**, **Rust**, and backend/system design.
+- 🚀 My focus is on maintainability, robustness, and secure engineering practices.
+
+---
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -27,7 +40,13 @@
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![CMake](https://img.shields.io/badge/CMake-darkgreen?style=for-the-badge&logo=cmake)
+
+#### 🔐 Expertise
+- Secure software design
+- Defensive programming
+- Debugging & low-level problem solving
+- Performance optimization
 
 ## Contacts
 - GitHub: [@Deokma](https://github.com/Deokma)
